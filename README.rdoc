@@ -1,3 +1,6 @@
+Social Stream is a Ruby on Rails engine for building social network websites. It supports contacts, posts, file uploads, private messages and much more.
+https://www.ruby-toolbox.com/projects/social_stream
+
 = Social Stream: a framework for building social network websites
 
 Social Stream is an engine for Ruby on Rails. It provides a robust and flexible framework
